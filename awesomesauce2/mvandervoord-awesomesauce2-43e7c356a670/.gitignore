@@ -1,0 +1,8 @@
+.DS_Store
+diy/build
+Logger/build
+patch.diff
+cmock/.travis.yml
+.settings
+.cproject
+.project
