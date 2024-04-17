@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "stm_test",
+			"path": "stm_test"
+		}
+	],
+	"settings": {}
+}
