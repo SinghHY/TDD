@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/GitRepo/TDD/project/Logger/src",
-      "program": "c:/GitRepo/TDD/project/Logger/src/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Documents/TDD/unit1a",
+      "program": "c:/Users/hp/Documents/TDD/unit1a/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
