@@ -14,7 +14,7 @@
 #define BIT_TO_MASK(a) (1u << (a))
 
 #ifdef TEST
-#define INSTANCE(name, address, template) PORT_##address; template PORT_##address;
+#define INSTANCE(name, address, template) PORT_##address; template PORT_##address; //Try ChatGPT for details//
 #else
 #define INSTANCE(name, address, template) const template* name = (*(template*)(address))
 #endif
