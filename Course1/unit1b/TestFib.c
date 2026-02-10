@@ -5,6 +5,16 @@
 /*https://chatgpt.com/share/698a50d7-8324-800b-80d4-d0d60a3c7641*/
 /* above is the for details for this lab*/
 
+void setUp(void)
+{
+  // set stuff up here
+}
+
+void tearDown(void)
+{
+  // clean stuff up here
+}
+
 void test_TheFirst(void)
 {
     TEST_IGNORE_MESSAGE("Implement Me");
